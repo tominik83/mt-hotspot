@@ -1,0 +1,2 @@
+<?php
+// Tisina je zlato
